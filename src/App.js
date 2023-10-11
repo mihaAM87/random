@@ -21,6 +21,7 @@ function App() {
     }
     setResultColor(resultColor);
     setResultMessage(resultMessage);
+    alert('СГЕНЕРИРОВАНО');
   }
 
   return (
